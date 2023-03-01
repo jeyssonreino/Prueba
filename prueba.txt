@@ -1,4 +1,4 @@
-Esto es una prueba para ver como funciona stashed
+Esto es una prueba para ver como funciona stashed 2.000
 
 Esto fue hecho en rama nueva
 Este cambio es en ramaquerida.
